@@ -1,4 +1,5 @@
 venv/
+vrnv/
 .env
 node_modules/
 dist/

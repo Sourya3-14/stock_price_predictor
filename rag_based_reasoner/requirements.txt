@@ -1,0 +1,29 @@
+# Core ML / Deep Learning
+tensorflow
+numpy
+pandas
+scikit-learn
+
+# Stock data
+yfinance
+
+# News fetching
+requests
+
+# Telegram scraping
+telethon
+
+# RAG / embeddings
+sentence-transformers
+chromadb
+
+# LLM (Gemini)
+google-generativeai
+
+# Utilities
+python-dotenv
+tqdm
+
+# Optional but useful
+matplotlib
+seaborn
