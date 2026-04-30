@@ -4,6 +4,7 @@ vrnv/
 node_modules/
 dist/
 build/
+dataset/
 *.log
 *.tmp
 .ipynb_checkpoints
